@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Zubair",
+        "drink": "Americano / creame"
+    },
+    {
+        "id": 2,
+        "name": "Hamza",
+        "drink": "Vanilla Macchiato"
+    },
+    {
+        "id": 3,
+        "name": "Mubashir",
+        "drink": "Coffee"
+    }
+]
