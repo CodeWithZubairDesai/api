@@ -13,5 +13,10 @@
         "id": 3,
         "name": "Mubashir",
         "drink": "Coffee"
+    },
+    {
+        "id": 4,
+        "name": "Ahmed",
+        "drink": "Tea"
     }
 ]
