@@ -2,26 +2,31 @@
     {
         "id": 1,
         "name": "Zubair",
-        "drink": "Americano / creame"
+        "drink": "Americano / creame",
+        "delivered" : false
     },
     {
         "id": 2,
         "name": "Hamza",
-        "drink": "Vanilla Macchiato"
+        "drink": "Vanilla Macchiato",
+        "delivered" : true
     },
     {
         "id": 3,
         "name": "Mubashir",
-        "drink": "Coffee"
+        "drink": "Coffee",
+        "delivered" : true
     },
     {
         "id": 4,
         "name": "Ahmed",
-        "drink": "Tea"
+        "drink": "Tea",
+        "delivered" : true
     },
     {
         "id": 5,
         "name": "Junaid",
-        "drink": "Americano / creame"
+        "drink": "Americano / creame",
+        "delivered" : false
     }
 ]
